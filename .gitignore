@@ -11,3 +11,5 @@ wheels/
 
 # Just in case
 *.tgz
+spark-*
+spark-*/
