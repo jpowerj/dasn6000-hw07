@@ -1,4 +1,4 @@
-# DSAN 6000 Homework 7: A Single Spark Cluster Can Light a Prairie Fire
+# DSAN 6000 Homework 7: A Single Spark Cluster Can Start a Prairie Fire
 
 **Due Sunday, November 15, 11:59pm EDT**
 
