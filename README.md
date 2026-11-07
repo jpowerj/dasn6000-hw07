@@ -1,6 +1,6 @@
 # DSAN 6000 Homework 7: A Single Spark Cluster Can Light a Prairie Fire
 
-**Due Monday, November 9, 11:59pm EDT**
+**Due Sunday, November 15, 11:59pm EDT**
 
 > \[!WARNING\] If you have cloned the repository **template** from the
 > `https://github.com/jpowerj/dsan6000-hw07` URL, you are **not starting
